@@ -51,6 +51,16 @@ a tool that keeps an **auction house** running smoothly, from listing items to s
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏡 Project Uri
+*a team build, in progress*
+
+**Uri** is a friendly AI assistant for the whole household that's actually easy to set up. it runs privately on a PC you already own, so there's no complicated setup and your stuff stays at home. everyone in the family gets their own personal assistant, plus a shared one for the house, reachable from your phone or screens around the home. it speaks more than one language, too 🌍
+
+</td>
+</tr>
 </table>
 
 ---
