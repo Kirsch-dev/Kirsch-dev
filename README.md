@@ -18,7 +18,7 @@ i like building things that make everyday stuff a bit nicer: cozy apps, little t
 <tr>
 <td width="50%" valign="top">
 
-### 🪺 Perch
+### 🐦 Perch
 *my main thing right now*
 
 turns your PC into a cozy, console-style hub for your **games, books, and audiobooks**, all in one place. pick a profile, see your stats, and jump back into whatever you were in the middle of.
